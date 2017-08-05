@@ -1,0 +1,20 @@
+body {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  font-family: verdana;
+}
+
+h4 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.well {
+  margin: 10px;
+}
+
+.quote {
+   font-family: impact, fantasy;
+   font-style: italic;
+   margin: 25px;"
+}
